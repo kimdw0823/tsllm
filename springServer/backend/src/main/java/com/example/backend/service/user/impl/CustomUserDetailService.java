@@ -1,4 +1,4 @@
-package com.example.backend.service.user;
+package com.example.backend.service.user.impl;
 
 import com.example.backend.data.dto.user.JwtUserDto;
 import com.example.backend.data.entity.user.User;
